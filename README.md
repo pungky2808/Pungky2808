@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Pungky Bintang Alamsyach**.
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).
+Saya adalah seorang front-end development dan UI/UX design
 
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).
 
